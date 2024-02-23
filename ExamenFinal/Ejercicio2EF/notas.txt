@@ -1,0 +1,3 @@
+Tamaño de la lista: 4
+Raíces cuadradas:
+2.0
